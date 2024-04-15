@@ -1,1 +1,1 @@
-A class that simulates the double slit experiment. For more information, refer to the [documentation here](https://the-codingschool.github.io/double-slit-experiment/documentation/double-slit-experiment.html).
+A class that simulates the double slit experiment. For more information, refer to the [documentation here]([https://the-codingschool.github.io/double-slit-experiment/documentation/double-slit-experiment.html](https://the-codingschool.github.io/doubleSlit/documentation/doubleSlit.html)).
